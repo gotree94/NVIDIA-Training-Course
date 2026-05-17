@@ -32,7 +32,7 @@ https://nvdam.widen.net/s/wlbgbqr7cj/nvidia-learning-training-course-catalog
 | Self-paced	| Agentic AI Explained																| 1 hour				| Free	|
 | Self-paced	| Learn OpenUSD: Foundations to Applied Concepts									| 8 hours				| Free	|
 
-| |  |  |  |  | 
+| |  |  |  | 
 |:-----------------:|:----------------------------------------------------:|:--------:|:--------:|
 | Instructor-Led	| Fundamentals of Deep Learning														| 8 hours	|  			| 
 | Instructor-Led	| Building Transformer-Based Natural Language Processing Applications				| 8 hours	| 			| 
