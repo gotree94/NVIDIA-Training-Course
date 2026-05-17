@@ -9,7 +9,7 @@ https://nvdam.widen.net/s/wlbgbqr7cj/nvidia-learning-training-course-catalog
 ---
 
 |               |                                                                                   |                       |       |
-|:-------------:|----------------------------------------------------------------------------------:|:---------------------:|:-----:|
+|:-------------:|:---------------------------------------------------------------------------------:|:---------------------:|:-----:|
 | Self-paced	| Getting Started with AI on Jetson Nano											| 8 hours				| Free	|
 | Self-paced	| An Even Easier Introduction to CUDA												| 1 hour				| Free	|
 | Self-paced	| Building A Brain in 10 Minutes													| 10 minutes			| Free	|
@@ -33,7 +33,7 @@ https://nvdam.widen.net/s/wlbgbqr7cj/nvidia-learning-training-course-catalog
 | Self-paced	| Learn OpenUSD: Foundations to Applied Concepts									| 8 hours				| Free	|
 
 | |  |  |  |  | 
-|:-----------------:|:---------------------------------------------------------------------------------:|:--------:|:--------:|
+|:-----------------:|:----------------------------------------------------:|:--------:|:--------:|
 | Instructor-Led	| Fundamentals of Deep Learning														| 8 hours	|  			| 
 | Instructor-Led	| Building Transformer-Based Natural Language Processing Applications				| 8 hours	| 			| 
 | Instructor-Led	| Applications of AI for Predictive Maintenance										| 8 hours	| 			| 
