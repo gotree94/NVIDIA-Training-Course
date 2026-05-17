@@ -8,9 +8,9 @@ https://nvdam.widen.net/s/wlbgbqr7cj/nvidia-learning-training-course-catalog
 
 ---
 
-| | | | | |
+|    |                                                                                  |         |         |                   |
 |:--:|:--------------------------------------------------------------------------------:|:-------:|:-------:|:-----------------:|
-| [] | Self-paced	Getting Started with AI on Jetson Nano												| 8 hours				| Free	| Enroll Now| 
+| [X] | Self-paced	Getting Started with AI on Jetson Nano												| 8 hours				| Free	| Enroll Now| 
 | [] | Self-paced	An Even Easier Introduction to CUDA													| 1 hour				| Free	| Enroll Now| 
 | [] | Self-paced	Building A Brain in 10 Minutes														| 10 minutes			| Free	| Enroll Now| 
 | [] | Self-paced	An Introduction to Developing With NVIDIA Omniverse									| 2 hours				| Free	| Enroll Now| 
