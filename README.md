@@ -8,48 +8,48 @@ https://nvdam.widen.net/s/wlbgbqr7cj/nvidia-learning-training-course-catalog
 
 ---
 
-|               |                                                                                   |                       |       |            |
-|:-------------:|:---------------------------------------------------------------------------------:|:---------------------:|:-----:|:----------:|
-| Self-paced	| Getting Started with AI on Jetson Nano											| 8 hours				| Free	| Enroll Now | 
-| Self-paced	| An Even Easier Introduction to CUDA												| 1 hour				| Free	| Enroll Now | 
-| Self-paced	| Building A Brain in 10 Minutes													| 10 minutes			| Free	| Enroll Now | 
-| Self-paced	| An Introduction to Developing With NVIDIA Omniverse								| 2 hours				| Free	| Enroll Now | 
-| Self-paced	| Generative AI Explained															| 2 hours				| Free	| Enroll Now | 
-| Self-paced	| Augment your LLM Using Retrieval Augmented Generation								| 1 hour				| Free	| Enroll Now | 
-| Self-paced	| Extend Omniverse Kit Applications for Building Digital Twins						| 2 hours				| Free	| Enroll Now | 
-| Self-paced	| Fundamentals of Working With OpenUSD												| 2 hours				| Free	| Enroll Now | 
-| Self-paced	| Creating an Omniverse Extension With Python										| 2 hours				| Free	| Enroll Now | 
-| Self-paced	| Introduction to NVIDIA NIM™ Microservices											| 2 hours				| Free	| Enroll Now | 
-| Self-paced	| A Beginner's Guide to Autonomous Robots											| 1 hour				| Free	| Enroll Now | 
-| Self-paced	| Introduction to Federated Learning with NVIDIA FLARE								| 2 hours				| Free	| Enroll Now | 
-| Self-paced	| Decentralized AI at Scale with NVIDIA Flare										| 4 hours				| Free	| Enroll Now | 
-| Self-paced	| Generating High-Quality Motion Data for Robotics With MobilityGen					| 1 hour 30 minutes		| Free	| Enroll Now | 
-| Self-paced	| Introduction to Multi-Modal Data Curation											| 1 hour				| Free	| Enroll Now | 
-| Self-paced	| Software-in-the-Loop Testing for Robots With OpenUSD, Isaac Sim, and ROS			| 2 hours				| Free	| Enroll Now | 
-| Self-paced	| Getting Started with NVIDIA Tools for Generative AI in Digital Health				| 2 hours				| Free	| Enroll Now | 
-| Self-paced	| Streamlining Drug Discovery with NVIDIA BioNeMo NIM Microservices and Blueprints	| 2 hours				| Free	| Enroll Now | 
-| Self-paced	| Building AI-Powered Material Generation for Omniverse With DGX Cloud				| 2 hours				| Free	| Enroll Now | 
-| Self-paced	| Agentic AI Explained																| 1 hour				| Free	| Enroll Now | 
-| Self-paced	| Learn OpenUSD: Foundations to Applied Concepts									| 8 hours				| Free	| Enroll Now | 
+|               |                                                                                   |                       |       |
+|:-------------:|----------------------------------------------------------------------------------:|:---------------------:|:-----:|
+| Self-paced	| Getting Started with AI on Jetson Nano											| 8 hours				| Free	|
+| Self-paced	| An Even Easier Introduction to CUDA												| 1 hour				| Free	|
+| Self-paced	| Building A Brain in 10 Minutes													| 10 minutes			| Free	|
+| Self-paced	| An Introduction to Developing With NVIDIA Omniverse								| 2 hours				| Free	|
+| Self-paced	| Generative AI Explained															| 2 hours				| Free	|
+| Self-paced	| Augment your LLM Using Retrieval Augmented Generation								| 1 hour				| Free	|
+| Self-paced	| Extend Omniverse Kit Applications for Building Digital Twins						| 2 hours				| Free	|
+| Self-paced	| Fundamentals of Working With OpenUSD												| 2 hours				| Free	|
+| Self-paced	| Creating an Omniverse Extension With Python										| 2 hours				| Free	|
+| Self-paced	| Introduction to NVIDIA NIM™ Microservices											| 2 hours				| Free	|
+| Self-paced	| A Beginner's Guide to Autonomous Robots											| 1 hour				| Free	|
+| Self-paced	| Introduction to Federated Learning with NVIDIA FLARE								| 2 hours				| Free	|
+| Self-paced	| Decentralized AI at Scale with NVIDIA Flare										| 4 hours				| Free	|
+| Self-paced	| Generating High-Quality Motion Data for Robotics With MobilityGen					| 1 hour 30 minutes		| Free	|
+| Self-paced	| Introduction to Multi-Modal Data Curation											| 1 hour				| Free	|
+| Self-paced	| Software-in-the-Loop Testing for Robots With OpenUSD, Isaac Sim, and ROS			| 2 hours				| Free	|
+| Self-paced	| Getting Started with NVIDIA Tools for Generative AI in Digital Health				| 2 hours				| Free	|
+| Self-paced	| Streamlining Drug Discovery with NVIDIA BioNeMo NIM Microservices and Blueprints	| 2 hours				| Free	|
+| Self-paced	| Building AI-Powered Material Generation for Omniverse With DGX Cloud				| 2 hours				| Free	|
+| Self-paced	| Agentic AI Explained																| 1 hour				| Free	|
+| Self-paced	| Learn OpenUSD: Foundations to Applied Concepts									| 8 hours				| Free	|
 
 | |  |  |  |  | 
-|:-----------------:|:---------------------------------------------------------------------------------:|---------:|---------:|---------:|
-| Instructor-Led	| Fundamentals of Deep Learning														| 8 hours	|  			| Enroll Now | 
-| Instructor-Led	| Building Transformer-Based Natural Language Processing Applications				| 8 hours	| 			| Enroll Now | 
-| Instructor-Led	| Applications of AI for Predictive Maintenance										| 8 hours	| 			| Enroll Now | 
-| Instructor-Led	| Getting Started with AI on Jetson Nano											| 8 hours	| 			| Enroll Now | 
-| Instructor-Led	| Applications of AI for Anomaly Detection											| 8 hours	| 			| Enroll Now | 
-| Self-paced		| Disaster Risk Monitoring Using Satellite Imagery									| 8 hours	| 	$90		| Enroll Now | 		
-| Self-paced		| Getting Started with Deep Learning												| 8 hours	| 	$90		| Enroll Now | 
-| Self-paced		| Building Real-Time Video AI Applications											| 8 hours	| 	$90		| Enroll Now | 
-| Self-paced		| Getting Started with AI on Jetson Nano											| 8 hours	| 	Free	| Enroll Now | 
-| Instructor-Led	| Computer Vision for Industrial Inspection											| 8 hours	| 			| Enroll Now | 	
-| Instructor-Led	| Data Parallelism: How to Train Deep Learning Models on Multiple GPUs				| 8 hours	| 			| Enroll Now | 
-| Instructor-Led	| Building Conversational AI Applications											| 9 hours	| 			| Enroll Now | 
-| Instructor-Led	| Fundamentals of Accelerated Data Science											| 8 hours	| 			| Enroll Now | 
-| Self-paced		| Building LLM Applications With Prompt Engineering									| 8 hours	| 	$90		| Enroll Now | 
-| Self-paced		| Accelerating End-to-End Data Science Workflows									| 8 hours	| 	$90		| Enroll Now | 
-| Self-paced		| Rapid Application Development with Large Language Models (LLMs)					| 8 hours	| 	$90		| Enroll Now | 
+|:-----------------:|:---------------------------------------------------------------------------------:|:--------:|:--------:|
+| Instructor-Led	| Fundamentals of Deep Learning														| 8 hours	|  			| 
+| Instructor-Led	| Building Transformer-Based Natural Language Processing Applications				| 8 hours	| 			| 
+| Instructor-Led	| Applications of AI for Predictive Maintenance										| 8 hours	| 			| 
+| Instructor-Led	| Getting Started with AI on Jetson Nano											| 8 hours	| 			| 
+| Instructor-Led	| Applications of AI for Anomaly Detection											| 8 hours	| 			| 
+| Self-paced		| Disaster Risk Monitoring Using Satellite Imagery									| 8 hours	| 	$90		| 	
+| Self-paced		| Getting Started with Deep Learning												| 8 hours	| 	$90		| 
+| Self-paced		| Building Real-Time Video AI Applications											| 8 hours	| 	$90		| 
+| Self-paced		| Getting Started with AI on Jetson Nano											| 8 hours	| 	Free	| 
+| Instructor-Led	| Computer Vision for Industrial Inspection											| 8 hours	| 			| 
+| Instructor-Led	| Data Parallelism: How to Train Deep Learning Models on Multiple GPUs				| 8 hours	| 			| 
+| Instructor-Led	| Building Conversational AI Applications											| 9 hours	| 			| 
+| Instructor-Led	| Fundamentals of Accelerated Data Science											| 8 hours	| 			| 
+| Self-paced		| Building LLM Applications With Prompt Engineering									| 8 hours	| 	$90		| 
+| Self-paced		| Accelerating End-to-End Data Science Workflows									| 8 hours	| 	$90		| 
+| Self-paced		| Rapid Application Development with Large Language Models (LLMs)					| 8 hours	| 	$90		| 
 
 
 ---
