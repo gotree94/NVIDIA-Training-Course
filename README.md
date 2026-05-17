@@ -86,9 +86,8 @@
    * Introduction to Federated Learning With NVIDIA FLARE 17
    * Introduction to Graph Neural Networks 17
    * Medical AI Development With MONAI: Interactive Annotation Using NVIDIA NIM Microservices 17
-
-### Generative AI and Large Language Models (LLMs)
-* Agentic AI Explained 17
+* Generative AI and Large Language Models (LLMs)
+   * Agentic AI Explained 17
    * An Introduction to NVIDIA Cosmos for Physical AI 17
    * Augment Your LLM Using Retrieval-Augmented Generation 17
    * Build a Deep Research Agent 18
@@ -137,14 +136,14 @@
    * Training Healthcare Robotics From Scratch Using Isaac for Healthcare 23
    * Transferring Robot Learning Policies From Simulation to Reality 23
 
-## Hybrid Training for Infrastructure Professionals
+### Hybrid Training for Infrastructure Professionals
 
 * Partner Technical Training
    * AI Factory Deployment 24
    * NCP GB200/GB300 Administration 24
    * NCP HGX 8-Way Administration 24
 
-## Workshops for Infrastructure Professionals
+### Workshops for Infrastructure Professionals
 
 * AI and Data Science
    * AI Infrastructure 25
@@ -167,7 +166,8 @@
 * Software and Tools
    * Base Command Manager Private Workshop 27
 
-## Self-Paced Courses for Infrastructure Professionals
+### Self-Paced Courses for Infrastructure Professionals
+
 * AI and Data Science
    * AI for All—From Basics to Gen AI Practice 28
    * AI Infrastructure and Operations Fundamentals 28
@@ -200,7 +200,8 @@
    * NVIDIA AI Enterprise for Azure Professionals 31
    * NVIDIA License System 31
 
-## Certifications
+### Certifications
+
 * AI Infrastructure
    * NVIDIA-Certified Associate: AI Infrastructure and Operations 32
    * NVIDIA-Certified Professional: AI Infrastructure 32
