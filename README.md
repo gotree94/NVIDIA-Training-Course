@@ -17,33 +17,36 @@
 
 ## Table of Contents
 ### Instructor-Led Workshops for Developers
+
 * Accelerated Computing
-Fundamentals of Accelerated Computing With CUDA Python 9
-Fundamentals of Accelerated Computing With Modern CUDA C++ 9
-Fundamentals of Accelerated Networking With NVIDIA DOCA 9
+   * Fundamentals of Accelerated Computing With CUDA Python 9
+   * Fundamentals of Accelerated Computing With Modern CUDA C++ 9
+   * Fundamentals of Accelerated Networking With NVIDIA DOCA 9
+
 * Data Science
-Enhancing Data Science Outcomes With Efficient Workflow 9
-Fundamentals of Accelerated Data Science 9
-Applications of AI for Anomaly Detection 9
-Applications of AI for Predictive Maintenance 10
-Building AI Agents With Multimodal Models 10
-Building Conversational AI Applications 10
-Building Transformer-Based Natural Language Processing Applications 10
-Computer Vision for Industrial Inspection 10
-Data Parallelism: How to Train Deep Learning Models on Multiple GPUs 10
-Fundamentals of Deep Learning 10
-Model Parallelism: Building and Deploying Large Neural Networks 11
+   * Enhancing Data Science Outcomes With Efficient Workflow 9
+   * Fundamentals of Accelerated Data Science 9
+   * Applications of AI for Anomaly Detection 9
+   * Applications of AI for Predictive Maintenance 10
+   * Building AI Agents With Multimodal Models 10
+   * Building Conversational AI Applications 10
+   * Building Transformer-Based Natural Language Processing Applications 10
+   * Computer Vision for Industrial Inspection 10
+   * Data Parallelism: How to Train Deep Learning Models on Multiple GPUs 10
+   * Fundamentals of Deep Learning 10
+   * Model Parallelism: Building and Deploying Large Neural Networks 11
+
 * Generative AI and Large Language Models (LLMs)
-Adding New Knowledge to LLMs 11
-Building Agentic AI Applications With LLMs 11
-Building LLM Applications With Prompt Engineering 11
-Building RAG Agents With LLMs 11
-Deploying RAG Pipelines for Production at Scale 11
-Generative AI With Diffusion Models 11
-Rapid Application Development With Large Language Models (LLMs) 12
-Physical AI and Simulation
-Getting Started With AI on NVIDIA Jetson Nano 12
-NVIDIA Isaac for Accelerated Robotics 12
+   * Adding New Knowledge to LLMs 11
+   * Building Agentic AI Applications With LLMs 11
+   * Building LLM Applications With Prompt Engineering 11
+   * Building RAG Agents With LLMs 11
+   * Deploying RAG Pipelines for Production at Scale 11
+   * Generative AI With Diffusion Models 11
+   * Rapid Application Development With Large Language Models (LLMs) 12
+   * Physical AI and Simulation
+   * Getting Started With AI on NVIDIA Jetson Nano 12
+   * NVIDIA Isaac for Accelerated Robotics 12
 
 ### Online, Self-Paced Courses for Developers
 * Accelerated Computing
