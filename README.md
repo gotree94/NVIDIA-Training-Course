@@ -4,6 +4,7 @@
 
 https://nvdam.widen.net/s/wlbgbqr7cj/nvidia-learning-training-course-catalog
 
+<img src="image.jpg" width="30%">
 
 ## Introduction
 > * NVIDIA offers training for diverse needs, giving individuals and teams across organizations what they need to advance their knowledge in AI, accelerated computing, data science, data center administration, graphics and simulation, networking, and more.
