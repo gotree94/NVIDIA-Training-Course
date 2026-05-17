@@ -8,29 +8,29 @@ https://nvdam.widen.net/s/wlbgbqr7cj/nvidia-learning-training-course-catalog
 
 ---
 
-|  |  |    |   |   |
-|:-------------:|----------------------------------------------------------------------------------:|:-------------------:|:-----:|:---------:|
-| Self-paced	| Getting Started with AI on Jetson Nano												| 8 hours				| Free	| Enroll Now| 
-| Self-paced	| An Even Easier Introduction to CUDA													| 1 hour				| Free	| Enroll Now| 
-| Self-paced	| Building A Brain in 10 Minutes														| 10 minutes			| Free	| Enroll Now| 
-| Self-paced	| An Introduction to Developing With NVIDIA Omniverse									| 2 hours				| Free	| Enroll Now| 
-| Self-paced	| Generative AI Explained																| 2 hours				| Free	| Enroll Now| 
-| Self-paced	| Augment your LLM Using Retrieval Augmented Generation								| 1 hour				| Free	| Enroll Now| 
-| Self-paced	| Extend Omniverse Kit Applications for Building Digital Twins						| 2 hours				| Free	| Enroll Now| 
-| Self-paced	| Fundamentals of Working With OpenUSD												| 2 hours				| Free	| Enroll Now| 
-| Self-paced	| Creating an Omniverse Extension With Python											| 2 hours				| Free	| Enroll Now| 
-| Self-paced	| Introduction to NVIDIA NIM™ Microservices											| 2 hours				| Free	| Enroll Now| 
-| Self-paced	| A Beginner's Guide to Autonomous Robots												| 1 hour				| Free	| Enroll Now| 
-| Self-paced	| Introduction to Federated Learning with NVIDIA FLARE								| 2 hours				| Free	| Enroll Now| 
-| Self-paced	| Decentralized AI at Scale with NVIDIA Flare											| 4 hours				| Free	| Enroll Now| 
-| Self-paced	| Generating High-Quality Motion Data for Robotics With MobilityGen					| 1 hour 30 minutes		| Free	| Enroll Now| 
-| Self-paced	| Introduction to Multi-Modal Data Curation											| 1 hour				| Free	| Enroll Now| 
-| Self-paced	| Software-in-the-Loop Testing for Robots With OpenUSD, Isaac Sim, and ROS			| 2 hours				| Free	| Enroll Now| 
-| Self-paced	| Getting Started with NVIDIA Tools for Generative AI in Digital Health				| 2 hours				| Free	| Enroll Now| 
-| Self-paced	| Streamlining Drug Discovery with NVIDIA BioNeMo NIM Microservices and Blueprints	| 2 hours				| Free	| Enroll Now| 
-| Self-paced	| Building AI-Powered Material Generation for Omniverse With DGX Cloud				| 2 hours				| Free	| Enroll Now| 
-| Self-paced	| Agentic AI Explained																| 1 hour				| Free	| Enroll Now| 
-| Self-paced	| Learn OpenUSD: Foundations to Applied Concepts										| 8 hours				| Free	| Enroll Now| 
+|               |                                                                                   |                       |       |            |
+|:-------------:|----------------------------------------------------------------------------------:|:---------------------:|:-----:|:----------:|
+| Self-paced	| Getting Started with AI on Jetson Nano											| 8 hours				| Free	| Enroll Now | 
+| Self-paced	| An Even Easier Introduction to CUDA												| 1 hour				| Free	| Enroll Now | 
+| Self-paced	| Building A Brain in 10 Minutes													| 10 minutes			| Free	| Enroll Now | 
+| Self-paced	| An Introduction to Developing With NVIDIA Omniverse								| 2 hours				| Free	| Enroll Now | 
+| Self-paced	| Generative AI Explained															| 2 hours				| Free	| Enroll Now | 
+| Self-paced	| Augment your LLM Using Retrieval Augmented Generation								| 1 hour				| Free	| Enroll Now | 
+| Self-paced	| Extend Omniverse Kit Applications for Building Digital Twins						| 2 hours				| Free	| Enroll Now | 
+| Self-paced	| Fundamentals of Working With OpenUSD												| 2 hours				| Free	| Enroll Now | 
+| Self-paced	| Creating an Omniverse Extension With Python										| 2 hours				| Free	| Enroll Now | 
+| Self-paced	| Introduction to NVIDIA NIM™ Microservices											| 2 hours				| Free	| Enroll Now | 
+| Self-paced	| A Beginner's Guide to Autonomous Robots											| 1 hour				| Free	| Enroll Now | 
+| Self-paced	| Introduction to Federated Learning with NVIDIA FLARE								| 2 hours				| Free	| Enroll Now | 
+| Self-paced	| Decentralized AI at Scale with NVIDIA Flare										| 4 hours				| Free	| Enroll Now | 
+| Self-paced	| Generating High-Quality Motion Data for Robotics With MobilityGen					| 1 hour 30 minutes		| Free	| Enroll Now | 
+| Self-paced	| Introduction to Multi-Modal Data Curation											| 1 hour				| Free	| Enroll Now | 
+| Self-paced	| Software-in-the-Loop Testing for Robots With OpenUSD, Isaac Sim, and ROS			| 2 hours				| Free	| Enroll Now | 
+| Self-paced	| Getting Started with NVIDIA Tools for Generative AI in Digital Health				| 2 hours				| Free	| Enroll Now | 
+| Self-paced	| Streamlining Drug Discovery with NVIDIA BioNeMo NIM Microservices and Blueprints	| 2 hours				| Free	| Enroll Now | 
+| Self-paced	| Building AI-Powered Material Generation for Omniverse With DGX Cloud				| 2 hours				| Free	| Enroll Now | 
+| Self-paced	| Agentic AI Explained																| 1 hour				| Free	| Enroll Now | 
+| Self-paced	| Learn OpenUSD: Foundations to Applied Concepts									| 8 hours				| Free	| Enroll Now | 
 
 | |  |  |  |  | 
 |:-----------------:|:---------------------------------------------------------------------------------:|---------:|---------:|---------:|
@@ -50,6 +50,8 @@ https://nvdam.widen.net/s/wlbgbqr7cj/nvidia-learning-training-course-catalog
 | Self-paced		| Building LLM Applications With Prompt Engineering									| 8 hours	| 	$90		| Enroll Now | 
 | Self-paced		| Accelerating End-to-End Data Science Workflows									| 8 hours	| 	$90		| Enroll Now | 
 | Self-paced		| Rapid Application Development with Large Language Models (LLMs)					| 8 hours	| 	$90		| Enroll Now | 
+
+
 ---
 
 ## Introduction
