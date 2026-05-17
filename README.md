@@ -8,12 +8,12 @@
 > * Our training program offers both self-paced online courses and instructor-led, prescheduled workshops. The self-paced courses range from ten minutes to eight hours and guide you through applying a specific technology, setting up a project, or administering solutions in a data center. Instructor-led workshops and boot camps go deeper into topic areas, teaching you how to implement a project or solution from end to end. Both types of courses give you valuable hands-on experience using the latest technologies.
 
 ## Why Choose NVIDIA for Training?
-> Learn how to build deep learning and accelerated computing applications for industries such as healthcare, robotics, autonomous driving, manufacturing, and more.
-> Gain hands-on experience with the most widely used, industry-standard platforms including software, hardware, tools, and frameworks. Each student will have access to a fully configured, GPU-accelerated server in the cloud or access to NVIDIA solutions in our training lab.
-> Become proficient in administering NVIDIA hardware and software solutions such as NVIDIA DGX, InfiniBand, Cumulus, NVIDIA AI Enterprise, and more.
-> Access instructor-led workshops and online courses from anywhere using just a laptop and internet connection.
-> Acquire real-world expertise through content designed in collaboration with industry leaders such as Children’s Hospital of Los Angeles, Mayo Clinic, and PwC.
-> Earn NVIDIA certifications and course completion certificates to indicate subject matter competency and support your career growth
+> * Learn how to build deep learning and accelerated computing applications for industries such as healthcare, robotics, autonomous driving, manufacturing, and more.
+> * Gain hands-on experience with the most widely used, industry-standard platforms including software, hardware, tools, and frameworks. Each student will have access to a fully configured, GPU-accelerated server in the cloud or access to NVIDIA solutions in our training lab.
+> * Become proficient in administering NVIDIA hardware and software solutions such as NVIDIA DGX, InfiniBand, Cumulus, NVIDIA AI Enterprise, and more.
+> * Access instructor-led workshops and online courses from anywhere using just a laptop and internet connection.
+> * Acquire real-world expertise through content designed in collaboration with industry leaders such as Children’s Hospital of Los Angeles, Mayo Clinic, and PwC.
+> * Earn NVIDIA certifications and course completion certificates to indicate subject matter competency and support your career growth
 
 ## Table of Contents
 ### Instructor-Led Workshops for Developers
