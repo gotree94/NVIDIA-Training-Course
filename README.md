@@ -32,7 +32,24 @@ https://nvdam.widen.net/s/wlbgbqr7cj/nvidia-learning-training-course-catalog
 | [] | Self-paced	Agentic AI Explained																| 1 hour				| Free	| Enroll Now| 
 | [] | Self-paced	Learn OpenUSD: Foundations to Applied Concepts										| 8 hours				| Free	| Enroll Now| 
 
-
+| |  |  |  |  | 
+|:-----------------:|:---------------------------------------------------------------------------------:|---------:|---------:|---------:|
+| Instructor-Led	| Fundamentals of Deep Learning														| 8 hours	|  			| Enroll Now | 
+| Instructor-Led	| Building Transformer-Based Natural Language Processing Applications				| 8 hours	| 			| Enroll Now | 
+| Instructor-Led	| Applications of AI for Predictive Maintenance										| 8 hours	| 			| Enroll Now | 
+| Instructor-Led	| Getting Started with AI on Jetson Nano											| 8 hours	| 			| Enroll Now | 
+| Instructor-Led	| Applications of AI for Anomaly Detection											| 8 hours	| 			| Enroll Now | 
+| Self-paced		| Disaster Risk Monitoring Using Satellite Imagery									| 8 hours	| 	$90		| Enroll Now | 		
+| Self-paced		| Getting Started with Deep Learning												| 8 hours	| 	$90		| Enroll Now | 
+| Self-paced		| Building Real-Time Video AI Applications											| 8 hours	| 	$90		| Enroll Now | 
+| Self-paced		| Getting Started with AI on Jetson Nano											| 8 hours	| 	Free	| Enroll Now | 
+| Instructor-Led	| Computer Vision for Industrial Inspection											| 8 hours	| 			| Enroll Now | 	
+| Instructor-Led	| Data Parallelism: How to Train Deep Learning Models on Multiple GPUs				| 8 hours	| 			| Enroll Now | 
+| Instructor-Led	| Building Conversational AI Applications											| 9 hours	| 			| Enroll Now | 
+| Instructor-Led	| Fundamentals of Accelerated Data Science											| 8 hours	| 			| Enroll Now | 
+| Self-paced		| Building LLM Applications With Prompt Engineering									| 8 hours	| 	$90		| Enroll Now | 
+| Self-paced		| Accelerating End-to-End Data Science Workflows									| 8 hours	| 	$90		| Enroll Now | 
+| Self-paced		| Rapid Application Development with Large Language Models (LLMs)					| 8 hours	| 	$90		| Enroll Now | 
 
 ---
 
