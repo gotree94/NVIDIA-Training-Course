@@ -3,9 +3,9 @@
 * NVIDIA Training Course Catalog May 2026
 
 ## Introduction
-  * NVIDIA offers training for diverse needs, giving individuals and teams across organizations what they need to advance their knowledge in AI, accelerated computing, data science, data center administration, graphics and simulation, networking, and more.
-With access to high-performance computing, you’ll learn how to train, optimize, and deploy neural networks using the latest deep learning tools, frameworks, and SDKs. You’ll also learn how to assess, parallelize, optimize, and deploy NVIDIA-accelerated computing applications.
-Our training program offers both self-paced online courses and instructor-led, prescheduled workshops. The self-paced courses range from ten minutes to eight hours and guide you through applying a specific technology, setting up a project, or administering solutions in a data center. Instructor-led workshops and boot camps go deeper into topic areas, teaching you how to implement a project or solution from end to end. Both types of courses give you valuable hands-on experience using the latest technologies.
+> NVIDIA offers training for diverse needs, giving individuals and teams across organizations what they need to advance their knowledge in AI, accelerated computing, data science, data center administration, graphics and simulation, networking, and more.
+> With access to high-performance computing, you’ll learn how to train, optimize, and deploy neural networks using the latest deep learning tools, frameworks, and SDKs. You’ll also learn how to assess, parallelize, optimize, and > deploy NVIDIA-accelerated computing applications.
+> Our training program offers both self-paced online courses and instructor-led, prescheduled workshops. The self-paced courses range from ten minutes to eight hours and guide you through applying a specific technology, setting up a project, or administering solutions in a data center. Instructor-led workshops and boot camps go deeper into topic areas, teaching you how to implement a project or solution from end to end. Both types of courses give you valuable hands-on experience using the latest technologies.
 
 ## Why Choose NVIDIA for Training?
 > Learn how to build deep learning and accelerated computing applications for industries such as healthcare, robotics, autonomous driving, manufacturing, and more.
