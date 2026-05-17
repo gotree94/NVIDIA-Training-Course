@@ -2,6 +2,9 @@
 
 * NVIDIA Training Course Catalog May 2026
 
+https://nvdam.widen.net/s/wlbgbqr7cj/nvidia-learning-training-course-catalog
+
+
 ## Introduction
 > * NVIDIA offers training for diverse needs, giving individuals and teams across organizations what they need to advance their knowledge in AI, accelerated computing, data science, data center administration, graphics and simulation, networking, and more.
 > * With access to high-performance computing, you’ll learn how to train, optimize, and deploy neural networks using the latest deep learning tools, frameworks, and SDKs. You’ll also learn how to assess, parallelize, optimize, and deploy NVIDIA-accelerated computing applications.
